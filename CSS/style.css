@@ -6,10 +6,10 @@
     font-family: "Cairo", sans-serif;
 }
 body {
-    --main-color: #bdd9bf;
-    --main-color-opacity: #bdd9bf57;
+    --main-color: #faa916;
+    --main-color-opacity: #faa91645;
     --white-color: #fff;
-    --black-color: #2e4052;
+    --black-color: #1b1b1e;
     --grey-color: #999;
     --main-transition: 0.3s;
     --main-border-radius: 999999px;
